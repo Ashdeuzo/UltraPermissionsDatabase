@@ -3771,3 +3771,8 @@ ItemFrameShops+ifs.command.removeshopinselection+Removes every shop in your Worl
 ItemFrameShops+ ifs.command.recalcshopsinselection+Recalculates prices for every shop in your WorldEdit selection.
 ItemFrameShops+ifs.command.sellall+Sells your entire inventory at IFS calculated prices.
 ItemFrameShops+ifs.command.sellhand+Sells the item in your hand using a price calculated by IFS.
+DungeonsXL+dxl.ignoretimelimit+Bypass join requirement time.
+DungeonsXL+dxl.ignorerequirements+Bypass all join requirements.
+DungeonsXL+dxl.sign+Required to create dungeon signs.
+DungeonsXL+dxl.bypass+Allows to use blocked things in dungeon, e.g. enderchests
+DungeonsXL+dxl.cmdedit+	Allows to use commands while in dungeon.
